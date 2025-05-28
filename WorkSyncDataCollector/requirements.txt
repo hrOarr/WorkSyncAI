@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+psutil==6.0.0
+browser-history==0.4.0
+sqlalchemy==2.0.35
+python-dotenv==1.0.1
+pywinctl
+pygetwindow
+deptry==0.17.0
+dbus-python>=1.4.0
+scapy==2.5.0
+confluent-kafka
+Xlib
+plyer
